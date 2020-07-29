@@ -1,0 +1,101 @@
+{
+  "categorias": [
+    {
+      "titulo": "Games",
+      "cor": "#BA56A4",
+      "videos": [
+        {
+          "titulo": "Never gonna give you up",
+          "url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+        },
+        {
+          "titulo": "To the Moon 3 Trailer",
+          "url": "https://www.youtube.com/watch?v=bi0EN6pPYwE&t=166s"
+        },
+        {
+          "titulo": "Crash 4 Trailer",
+          "url": "https://www.youtube.com/watch?v=7-IwwvIrawI"
+        },
+        {
+          "titulo": "Halo: Reach PC Trailer",
+          "url": "https://www.youtube.com/watch?v=BPNkDfampKY"
+        },
+        {
+          "titulo": "Mass Effect 2 Gameplay",
+          "url": "https://www.youtube.com/watch?v=2375yukmK8c"
+        }
+      ]
+    },
+    {
+      "titulo": "Pets",
+      "cor": "#00C86F",
+      "videos": [
+        {
+          "titulo": "Cute Dogs",
+          "url": "https://www.youtube.com/watch?v=JZqvuBxEDnw"
+        },
+        {
+          "titulo": "Funny Dogs",
+          "url": "https://www.youtube.com/watch?v=x92g01IsymM"
+        },
+        {
+          "titulo": "Driving Dog",
+          "url": "https://www.youtube.com/watch?v=fBYvHHT8fdE"
+        },
+        {
+          "titulo": "Gato",
+          "url": "https://www.youtube.com/watch?v=pOmu0LtcI6Y"
+        }, 
+        {
+          "titulo": "Gaaaato",
+          "url": "https://www.youtube.com/watch?v=2w7R-z4rkYQ"
+        }
+      ]
+    },
+    {
+      "titulo": "Soundtracks",
+      "cor": "#9cd33b",
+      "videos": [
+        {
+          "titulo": "Impostor Factory OST",
+          "url": "https://www.youtube.com/watch?v=rywfUzre2JA"
+        },
+        {
+          "titulo": "Transistor - _n C_rcl_s",
+          "url": "https://www.youtube.com/watch?v=nMyoI-Za6z8"
+        },
+        {
+          "titulo": "Life is Strange ST",
+          "url": "https://www.youtube.com/watch?v=DfHgn5j9lOY"
+        },
+        {
+          "titulo": "The Red Strings Club OST",
+          "url": "https://www.youtube.com/watch?v=FO2nKz_tOds"
+        }
+      ]
+    },
+    {
+      "titulo": "Filmes",
+      "cor": "orange",
+      "videos": [
+        {
+          "titulo": "Toy Story 4",
+          "url": "https://www.youtube.com/watch?v=76CslX-q5C4"
+        },
+        {
+          "titulo": "Divertidamente",
+          "url": "https://www.youtube.com/watch?v=ukQeR3zYncw"
+        },
+        {
+          "titulo": "A Chegada",
+          "url": "https://www.youtube.com/watch?v=V6X5ti4YlG8"
+        },
+        {
+          "titulo": "Dois Irmãos",
+          "url": "https://www.youtube.com/watch?v=sM_uGhp1LP4"
+        }
+      ]
+    }
+      
+  ]
+}
